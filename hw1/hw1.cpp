@@ -14,5 +14,5 @@ int main() {
 		printf("*\n");
 	}
 	printf("\n * line = %d in ascii order", x);
-	return 0;
+	return 0; 
 }
